@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vankata1967
+- 👋 Hi, I’m @IvanStoilov2
 - 👀 I’m interested in programming, automobiles and electronics.
 - 🌱 I’m currently learning Computer and Software Engineering at Technical University of Sofia.
 - 💞️ I’m looking to collaborate on programming projects.
